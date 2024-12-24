@@ -24,8 +24,8 @@ const Footer = () => {
             </div>
             <div className='ch'>
                 <a href="">Contact</a>
-                <a href="">Phone:</a>
-                <a href="">Email:</a>
+                <a href="">Phone:98989898</a>
+                <a href="">Email:ronakb@gmail.com</a>
             </div>
         </div>
         <div className='set-2'>
