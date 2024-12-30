@@ -53,7 +53,7 @@
 
 .products-slice{
     padding-top: 60px;
-    height: 100vh;
+    height: 130vh;
     /* background-color: aquamarine; */
     
 }
@@ -77,4 +77,59 @@
     height: 35px;
     font-weight: 500;
     border-radius: 7px;
+}
+
+
+
+/* Products List  CSS*/
+
+.single_product{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 250px;
+    height: 350px;
+    background-color: rgb(252, 243, 232);
+    border: 1px solid black;
+    border-radius: 18px;
+    margin-left: 200px;
+}
+
+.images{
+    height: 180px;
+    width: 230px;
+    border: 1px solid yellowgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: -120px; */
+    
+}
+
+.images > img {
+    height: 160px;
+    width: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.extra{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.extra > button{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
 }

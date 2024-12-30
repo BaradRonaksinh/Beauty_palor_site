@@ -3,9 +3,12 @@ import Navbar from '../Components/Navbar'
 import '../css/Home.css'
 import firstBgImg from '../assets/images/bg_p1.jpg'
 import Footer from '../Components/Footer'
+import ProductsItem from './ProductsItem'
+import { FaCartShopping } from "react-icons/fa6"
+// import ProductList from './ProductList'
 
 
-const Home = () => {
+const Home = ({product}) => {
 
   const imgStyle = {
     backgroundImage: `url(${firstBgImg})`,
@@ -16,6 +19,8 @@ const Home = () => {
     position: 'relative',
     // opacity: 1,
   };
+
+
 
   return (
     <>
@@ -44,6 +49,21 @@ const Home = () => {
         </div>
 
         <div className='product-list'>
+          {/* <ProductsItem /> */}
+
+          <div className='single_product'>
+            <div className='images'>
+              <img src={product.img}
+               alt={product.name} />
+            </div>
+            <div>{product.name}</div>
+            <div>{product.description}</div>
+            <div className='extra'>
+              <div><h3>{product.price}</h3></div>
+              <button><FaCartShopping /></button>
+            </div>
+          </div>
+
 
         </div>
       </div>

@@ -1,0 +1,139 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"EyesShadow Kit",
+      "description":"use for only girls",
+      "price":200,
+      "stock":23,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/eyeshadow_kit.jpg"
+    },
+    {
+      "id":2,
+      "name":"Facial Massger",
+      "description":"use for only girls",
+      "price":600,
+      "stock":44,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/Facial_massger.jpg"
+    },
+    {
+      "id":3,
+      "name":"Beauty Hydra Anti Kit",
+      "description":"use for only girls",
+      "price":3000,
+      "stock":11,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/beauty_hydra_anti.jpg"
+    },
+    {
+      "id":4,
+      "name":"Kajal Yellow ",
+      "description":"use for only girls",
+      "price":499,
+      "stock":66,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/kajal_yellow.jpg"
+    },
+    {
+      "id":5,
+      "name":"Lakme CC Cream",
+      "description":"use for only girls",
+      "price":1200,
+      "stock":9,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/lakme_cc_creame_mini.jpg"
+    },
+    {
+      "id":6,
+      "name":"Loreal Paris Serum",
+      "description":"use for only girls",
+      "price":799,
+      "stock":13,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/loreal_paris_serum.jpg"
+    },
+    {
+      "id":7,
+      "name":"Louts Herble Face Cream",
+      "description":"use for only girls",
+      "price":900,
+      "stock":33,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/Louts_herble_face_cream.jpg"
+    },
+    {
+      "id":8,
+      "name":"Mamaearth Facial Kit",
+      "description":"use for only girls",
+      "price":250,
+      "stock":23,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/mamaearth_facial_Kit.jpg"
+    },
+    {
+      "id":9,
+      "name":"Mayabi Hair Line Kit",
+      "description":"use for only girls",
+      "price":1600,
+      "stock":77,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/mayabi_hairline_curls_lashes.jpg"
+    },
+    {
+      "id":10,
+      "name":"Midnight Kajal Pencil",
+      "description":"use for only girls",
+      "price":699,
+      "stock":20,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/midnight_kajal_pencil.jpg"
+    },
+    {
+      "id":11,
+      "name":"Navia Deo Roll",
+      "description":"use for only girls",
+      "price":60,
+      "stock":10,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/naiva_deo_roll_on.jpg"
+    },
+    {
+      "id":12,
+      "name":"Olay 7",
+      "description":"use for only girls",
+      "price":130,
+      "stock":15,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/olay_7.jpg"
+    },
+    {
+      "id":13,
+      "name":"Shadev Ayuvedik",
+      "description":"use for only girls",
+      "price":100,
+      "stock":23,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/sahdev_ayuvedik.jpg"
+    },
+    {
+      "id":14,
+      "name":"Veseline",
+      "description":"use for only girls",
+      "price":78,
+      "stock":16,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/vaseline_deep.jpg"
+    },
+    {
+      "id":15,
+      "name":"Wipes",
+      "description":"use for only girls",
+      "price":130,
+      "stock":14,
+      "category":"cosmetics",
+      "img":"http://localhost:7000/images/wipes.jpg"
+    }
+  ]
+}
